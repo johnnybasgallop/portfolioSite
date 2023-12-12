@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolioSite/static/css/main.baa5a116.css",
-    "main.js": "/portfolioSite/static/js/main.b8f0a7f0.js",
-    "static/media/JohnBasgallopCV.pdf": "/portfolioSite/static/media/JohnBasgallopCV.ea3650c00e913222ea27.pdf",
+    "main.js": "/portfolioSite/static/js/main.5e1d1ec4.js",
+    "static/media/JohnBasgallopCV.pdf": "/portfolioSite/static/media/JohnBasgallopCV.d14a74f90b10cfb3d64b.pdf",
     "static/media/profile.jpg": "/portfolioSite/static/media/profile.0e0ebd56e26417a09d00.jpg",
     "static/media/testimonial3.png": "/portfolioSite/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
     "static/media/work2.jpg": "/portfolioSite/static/media/work2.e52a0c2981a6c11ba468.jpg",
@@ -15,10 +15,10 @@
     "static/media/testimonial1.png": "/portfolioSite/static/media/testimonial1.89079c1d25f2c94ceb89.png",
     "index.html": "/portfolioSite/index.html",
     "main.baa5a116.css.map": "/portfolioSite/static/css/main.baa5a116.css.map",
-    "main.b8f0a7f0.js.map": "/portfolioSite/static/js/main.b8f0a7f0.js.map"
+    "main.5e1d1ec4.js.map": "/portfolioSite/static/js/main.5e1d1ec4.js.map"
   },
   "entrypoints": [
     "static/css/main.baa5a116.css",
-    "static/js/main.b8f0a7f0.js"
+    "static/js/main.5e1d1ec4.js"
   ]
 }
