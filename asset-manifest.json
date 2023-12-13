@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolioSite/static/css/main.a632def7.css",
-    "main.js": "/portfolioSite/static/js/main.0c0449b2.js",
+    "main.css": "/portfolioSite/static/css/main.d6869ded.css",
+    "main.js": "/portfolioSite/static/js/main.e1246bc0.js",
     "static/media/UpickMain.png": "/portfolioSite/static/media/UpickMain.8c5bd9be4472d210c88d.png",
     "static/media/MoonNewsMain.png": "/portfolioSite/static/media/MoonNewsMain.01c35ec0394c2620e07d.png",
     "static/media/JohnBasgallopCV.pdf": "/portfolioSite/static/media/JohnBasgallopCV.d14a74f90b10cfb3d64b.pdf",
@@ -18,11 +18,11 @@
     "static/media/work3.jpg": "/portfolioSite/static/media/work3.135e9065694bc13dc31d.jpg",
     "static/media/testimonial1.png": "/portfolioSite/static/media/testimonial1.89079c1d25f2c94ceb89.png",
     "index.html": "/portfolioSite/index.html",
-    "main.a632def7.css.map": "/portfolioSite/static/css/main.a632def7.css.map",
-    "main.0c0449b2.js.map": "/portfolioSite/static/js/main.0c0449b2.js.map"
+    "main.d6869ded.css.map": "/portfolioSite/static/css/main.d6869ded.css.map",
+    "main.e1246bc0.js.map": "/portfolioSite/static/js/main.e1246bc0.js.map"
   },
   "entrypoints": [
-    "static/css/main.a632def7.css",
-    "static/js/main.0c0449b2.js"
+    "static/css/main.d6869ded.css",
+    "static/js/main.e1246bc0.js"
   ]
 }
