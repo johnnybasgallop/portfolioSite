@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolioSite/static/css/main.cd158fcd.css",
-    "main.js": "/portfolioSite/static/js/main.ba17c905.js",
+    "main.js": "/portfolioSite/static/js/main.cdbc1471.js",
     "static/media/StrideSyncWebsitePreview.png": "/portfolioSite/static/media/StrideSyncWebsitePreview.983e655a1f09d1c2e5a6.png",
     "static/media/ClosetMatePreview.jpg": "/portfolioSite/static/media/ClosetMatePreview.ae67ec0daef784bcbb78.jpg",
     "static/media/profile.jpg": "/portfolioSite/static/media/profile.0e0ebd56e26417a09d00.jpg",
-    "static/media/JohnBasgallopResume2024.pdf": "/portfolioSite/static/media/JohnBasgallopResume2024.50e3d34d0210f4a75dc4.pdf",
+    "static/media/JohnBasgallopResume2024.pdf": "/portfolioSite/static/media/JohnBasgallopResume2024.842b80597ce911ef7357.pdf",
     "index.html": "/portfolioSite/index.html",
     "main.cd158fcd.css.map": "/portfolioSite/static/css/main.cd158fcd.css.map",
-    "main.ba17c905.js.map": "/portfolioSite/static/js/main.ba17c905.js.map"
+    "main.cdbc1471.js.map": "/portfolioSite/static/js/main.cdbc1471.js.map"
   },
   "entrypoints": [
     "static/css/main.cd158fcd.css",
-    "static/js/main.ba17c905.js"
+    "static/js/main.cdbc1471.js"
   ]
 }
